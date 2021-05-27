@@ -9,7 +9,7 @@ If you need to modify then, you need get a license about WIN AUTOMATION software
 
 To connect in FortClient VPN - Run this app using the parameter F (C:......\automation_vpn_connect.exe F)
 
-To connect in Cisco VPN - Run this app using the parameter F (C:......\automation_vpn_connect.exe C)
+To connect in Cisco VPN - Run this app using the parameter C (C:......\automation_vpn_connect.exe C)
 
 --------------------- CREDENTIALS ---------------------
 
