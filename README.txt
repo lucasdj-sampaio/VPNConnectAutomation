@@ -7,9 +7,9 @@ If you need to modify then, you need get a license about WIN AUTOMATION software
 
 --------------------- HOW USE THE EXECUTABLE ---------------------
 
-To connect in FortClient VPN - Run this app using the parameter F (C:......\robo_vpn_connect.exe F)
+To connect in FortClient VPN - Run this app using the parameter F (C:......\automation_vpn_connect.exe F)
 
-To connect in Cisco VPN - Run this app using the parameter F (C:......\robo_vpn_connect.exe C)
+To connect in Cisco VPN - Run this app using the parameter F (C:......\automation_vpn_connect.exe C)
 
 --------------------- CREDENTIALS ---------------------
 
